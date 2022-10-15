@@ -1,0 +1,14 @@
+RECURSION :
+    WHAT IS RECURSION :
+        When a Function Call It self is called Recursion. 
+
+    BASE CASE : (mendatory with return)
+        A Condition Where Function Calling Will Stop.
+
+    RECURINCE RELATION : (mendatory with return)
+        Relaction Between New Call Function and Old Function.
+
+    QUESTIONS :
+        1. Factorial.
+        2. 2 to the power.
+        3. print counting.
